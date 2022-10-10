@@ -1,5 +1,5 @@
 # covid-19-in-India
-![project banner](./imgs/covid.png)
+![project banner](./covid.png)
 ![bagdes](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -37,8 +37,8 @@ https://www.kaggle.com/datasets/sudalairajkumar/covid19-in-india
 - Pandas, Matplotlib, Plotly
 
 ## Summary of Findings
-![project banner](./imgs/summary1.png)
-![project banner](./imgs/summary2.png)
-![project banner](./imgs/summary3.png)
-![project banner](./imgs/summary4.png)
-![project banner](./imgs/summary5.png)
+![project banner](./summary1.png)
+![project banner](./summary2.png)
+![project banner](./summary3.png)
+![project banner](./summary4.png)
+![project banner](./summary5.png)
