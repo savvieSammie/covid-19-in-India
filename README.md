@@ -37,8 +37,6 @@ https://www.kaggle.com/datasets/sudalairajkumar/covid19-in-india
 - Pandas, Matplotlib, Plotly
 
 ## Summary of Findings
-![project banner](./summary1.png)
-![project banner](./summary2.png)
 ![project banner](./summary3.png)
 ![project banner](./summary4.png)
 ![project banner](./summary5.png)
